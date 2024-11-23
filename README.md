@@ -68,10 +68,23 @@ CSV-To-Excel-Converter/
 ├── README.md            # This README file
 └── requirements.txt     # List of required dependencies (optional)
 ```
+---
 
-## License
+## Screenshots
 
-This project is open-source and available under the [MIT License](LICENSE).
+
+Example:
+- **Select the CSV file, which you want to convert**  
+![Screenshot-1](Assets/Screenshot1.png)
+**Give path to the CSV File or Choose the file directly**
+![Screenshot-2](Assets/Screenshot2.png)
+**Choose the location, where you want the new Excel file to be saved.**
+![Screenshot-3](Assets/Screenshot3.png)
+**Saved Excel File**
+![Screenshot-3](Assets/Screenshot4.png)
+
+
+---
 
 ## Contributing
 
