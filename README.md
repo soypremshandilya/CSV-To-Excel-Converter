@@ -72,7 +72,6 @@ CSV-To-Excel-Converter/
 ## Screenshots
 
 
-Example:
 - **Select the CSV file, which you want to convert**  
 ![Screenshot-1](Assets/Screenshot1.png)
 **Give path to the CSV File or Choose the file directly**
