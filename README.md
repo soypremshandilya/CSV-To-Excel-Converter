@@ -100,18 +100,3 @@ Contributions are welcome! If you have suggestions for improvements or have enco
 - `openpyxl` for writing Excel files in `.xlsx` format.
 
 ```
-
-### Explanation:
-
-- **Overview**: Provides a brief description of the project and its main purpose.
-- **Features**: Highlights the key features of the tool.
-- **Requirements**: Lists the dependencies and how to install them.
-- **Installation**: Explains the steps to clone and run the project.
-- **Usage**: Guides the user on how to use the program with step-by-step instructions.
-- **File Structure**: Displays the directory structure of the project for clarity.
-- **License**: Includes information about the project's license (MIT in this case).
-- **Contributing**: Encourages contributions and provides instructions for contributing.
-- **Contact**: Provides the link to the GitHub repository and your GitHub username.
-- **Acknowledgements**: Credits the libraries used in the project.
-
-Feel free to modify or expand this README as necessary based on your specific requirements.
