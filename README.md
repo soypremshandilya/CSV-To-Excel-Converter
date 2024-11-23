@@ -66,7 +66,6 @@ CSV-To-Excel-Converter/
 │
 ├── csv_to_excel.py      # Main Python script for CSV to Excel conversion
 ├── README.md            # This README file
-└── requirements.txt     # List of required dependencies (optional)
 ```
 ---
 
