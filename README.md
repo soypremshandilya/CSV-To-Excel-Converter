@@ -99,4 +99,3 @@ Contributions are welcome! If you have suggestions for improvements or have enco
 - `tkinter` for creating the GUI.
 - `openpyxl` for writing Excel files in `.xlsx` format.
 
-```
